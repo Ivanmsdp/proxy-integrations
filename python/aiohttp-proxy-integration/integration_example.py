@@ -3,8 +3,8 @@ import asyncio
 
 import aiohttp
 
-USER = "user"
-PASSWORD = "password"
+USER = "IvanMSDP-rotate"
+PASSWORD = "IvanMYT12"
 END_POINT = "pr.oxylabs.io:7777"
 
 # Authorizing and passing credentials along with the proxy URL 
