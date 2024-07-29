@@ -1,8 +1,8 @@
 import mechanicalsoup
 
 # Credentials of Oxylabs Residential Proxy access.
-USER = "your_username"
-PASSWORD = "your_password"
+USER = "IvanMSDP-rotate"
+PASSWORD = "IvanMYT12"
 ENDPOINT = "pr.oxylabs.io:7777"
 
 proxies = {
