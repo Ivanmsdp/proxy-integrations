@@ -7,8 +7,8 @@ import aiohttp
 import pandas as pd
 from bs4 import BeautifulSoup
 
-USER = "IvanMSDP-rotate"
-PASSWORD = "IvanMYT12"
+USER = ""
+PASSWORD = ""
 END_POINT = "pr.oxylabs.io:7777"
 
 # Generate a list of URLs to scrape.
